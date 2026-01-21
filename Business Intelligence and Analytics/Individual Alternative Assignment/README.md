@@ -18,3 +18,10 @@ To explore how changes in economic indicators affect the value of the Malaysian 
 2. Python Programming (For Data Cleaning and Transformation)
 3. Power Bi (Data Visualization)
 4. Microsoft Word (Reporting)
+
+## Malaysia GDP Analysis Dasboard
+<img width="2907" height="1638" alt="image" src="https://github.com/user-attachments/assets/452cbdae-c1e7-4045-8e40-c684cbf272ef" />
+
+## Malaysia Ringgit Performance Dashboard (2008-2023)
+<img width="2912" height="1635" alt="image" src="https://github.com/user-attachments/assets/c116b21a-d320-473d-bc21-ef2e94f9befe" />
+

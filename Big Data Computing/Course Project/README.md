@@ -12,16 +12,16 @@ The dataset provides insights into the change in mean sea level over time. This 
 ## Dataset Description :
 The dataset contains the following columns relevant to our analysis:
 
-Measure: The area where measure are taken (e.g., Andaman Sea, Arabian Sea).
-Date: The date of the measurement (from December 17, 1992, to December 16, 2023).
+Measure: The area where measure are taken (e.g., Andaman Sea, Arabian Sea).  
+Date: The date of the measurement (from December 17, 1992, to December 16, 2023).  
 Value: The change in mean sea level in millimeters compared to a reference point.
 
 ## Research Question
 This study seeks to analyse the variations in the average height of the ocean's surface over time. Mean sea level is a vital metric in oceanography, climate science, and environmental studies, representing the midpoint between the mean high and low tides at a particular regions. This measure is crucial for understanding a variety of environmental and socio-economic impacts.
 
-1. What is the mean values for different regions.
-2. What is the overall trend in mean sea level rise for each region over the past years?
-3. How can we predict future sea levels based on historical data?
+1. What is the mean values for different regions.  
+2. What is the overall trend in mean sea level rise for each region over the past years?  
+3. How can we predict future sea levels based on historical data?  
 
 ## Data Cleaning and Preparation
 The dataset detailing changes in mean sea levels includes various attributes such as ObjectId, Country, ISO2, ISO3, Indicator, Unit, Source, CTS_Code, CTS_Name, CTS_Full_Descriptor, Measure, Date, and Value. Before conducting any analysis, it is essential to ensure the data is clean and well-prepared. Here are the steps undertaken for data cleaning and preparation:
